@@ -48,7 +48,7 @@ const HomePage = () => {
             >
                 PLAY
             </button>
-            <p style={{ color: 'white', fontSize: '1rem'}} >All Rights Reserved. Created by Melissa Morgan. 2025.</p>
+            <p style={{ color: 'white', fontSize: '1rem', marginTop: 30}} >All Rights Reserved. Created by Melissa Morgan. 2025.</p>
 
         </div>
     );
