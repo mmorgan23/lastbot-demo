@@ -25,10 +25,12 @@ const HomePage = () => {
             }}
         >
             <h1 style={{ color: 'limegreen', marginTop: 120 }}>Welcome to LAST BOT</h1>
+            <h2 style={{ color: 'limegreen', marginTop: 120 }}>*Designed to be Played on Desktop Computer.*</h2>
             <p style={{ color: 'limegreen', maxWidth: 800, fontSize: '1.2rem', margin: '24px 0', textAlign: 'center' }}>
                 When an evil scientist named Dr. Con creates evil clones from programmable metal and human DNA, the clones destroy 75% of humanity and enslave the other 25% in cities all over the world. Before being captured, a team of computer programmers and engineers from New York City create an intelligent robot to help free humanity from the evil clones and to destroy Dr. Con. The Last Bot is humanity’s only hope of freedom and survival! Check out the demo below.
             </p>
             <p style={{ color: 'limegreen', fontSize: '1.2rem'}} >Prepare for an action-packed adventure!</p>
+            <p style={{ color: 'white', fontSize: '1rem'}} >All Rights Reserved. Created by Melissa Morgan. 2025.</p>
             <button
                 onClick={handleEnter}
                 style={{
